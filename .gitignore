@@ -1,0 +1,11 @@
+# MERN Stack TaskManager
+
+Full-stack task management application with authentication.
+
+## Quick Start
+
+See [README.md](./README.md) for detailed setup instructions.
+
+## Folders
+- `/client` - React frontend
+- `/server` - Node.js backend
